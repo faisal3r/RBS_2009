@@ -1,7 +1,7 @@
 # RBS_2009
 Time synchronization implementation for wireless sensor networks using RBS protocol.
 
-This is a college project from 2009 in King Fahd University of Petroleum and Minerals (Dhahran, Saudi Arabia).
+This is a college project from 2009 done for the Computer Engineering department at King Fahd University of Petroleum and Minerals (Dhahran, Saudi Arabia).
 
 Video description can be found in https://www.youtube.com/watch?v=um9xJE7fmUk
 
