@@ -9,4 +9,4 @@ The RCV.nc, RCVAppC.nc, SND.nc, & SNDAppC.nc files were written for TelosB motes
 
 Refer to "Project Report.pdf" <https://github.com/faisal3r/RBS_2009/blob/master/Project%20Report.pdf> for more details and protocol description.
 
-**IMPORTANT: The author assumes no responsibility for the contents of this code or its outputs. Use at your own descretion.
+**IMPORTANT: The author assumes no responsibility for the contents of this code or its outputs. Use at your own discretion.
